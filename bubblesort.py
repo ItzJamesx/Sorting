@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 
 def bubble_sort(arr):
@@ -10,7 +10,7 @@ def bubble_sort(arr):
                 arr[i] = tmp
 
 
-my_arr = [1, 4, 8, 9, 2, 5, 3]
+my_arr = [12, 45, 19, 8, 9, 2, 5, 3]
 
 print(my_arr)
 bubble_sort(my_arr)
